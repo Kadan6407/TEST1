@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding);
+
+body {
+	background-color: #222;
+}
+
+.SHB {
+	scroll-behavior: auto;
+	text-align: left;
+	background-color: #262626;
+	height: 200px;
+	width: 200px;
+}
+
+local {
+	font-family: Helvetica;
+	color: #f47067;
+}
